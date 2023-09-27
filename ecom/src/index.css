@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #362e77;
+  --secondary-color: #fff;
+
+  --bg-color: #f6f5f5;
+
+  --navbar-height: 4rem;
+  --footer-height: 3rem;
+
+  --Dancing: "Dancing Script", cursive;
+  --Nunito: "Nunito", sans-serif;
+  --Oswald: "Oswald", sans-serif;
+  --Rubik: "Rubik", sans-serif;
+}
+
+body {
+  font-family: var(--Nunito);
+  background-color: var(--bg-color);
+}

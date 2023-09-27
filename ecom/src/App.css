@@ -1,0 +1,46 @@
+.app-container {
+  width: 100%;
+}
+
+.header-container {
+  height: var(--navbar-height);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  font-family: var(--Dancing);
+  font-weight: 700;
+  background-color: white;
+  border-bottom: 1px solid lightgray;
+}
+
+.brand {
+  text-decoration: none;
+  color: var(--primary-color);
+  font-size: 1.3rem;
+}
+
+.cart {
+  color: var(--primary-color);
+  font-size: 1.3rem;
+}
+
+.container {
+  max-width: 75rem;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.footer-container {
+  width: 100%;
+  height: var(--footer-height);
+  background-color: var(--primary-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 500;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+}
