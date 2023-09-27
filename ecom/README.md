@@ -16,6 +16,9 @@ https://celebrated-semolina-9c0d69.netlify.app/
 
   ![image](https://github.com/smitesht/react-projects/assets/52151346/921f3c24-fab9-45a3-8eb8-7b2bb2e7a67a)
 
+  ![image](https://github.com/smitesht/react-projects/assets/52151346/075641f4-8e9b-4341-89a0-cc1485614d40)
+
+
 ### Code Snippet
 
 ![image](https://github.com/smitesht/react-projects/assets/52151346/e2d258b1-5a42-450f-b274-2c853594232b)
